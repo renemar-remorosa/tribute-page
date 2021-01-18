@@ -1,1 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
 
+hr {
+	width: 70%;
+	margin: 4rem auto;
+}
+
+html {
+	font-family: Yusei Magic, sans-serif;
+	font-size: 10px;
+}
+
+body {
+	background-color: #eff;
+	color: #444;
+}
+
+header {
+	text-align: center;
+	margin-top: 2rem;
+}
+
+header h1 {
+	font-size: 6rem;
+}
+
+header p {
+	font-size: 2.5rem;
+}
+
+#img-div {
+	width: 720px;
+	margin: 4em auto;
+}
+
+#img-div #image {
+	width: 100%;
+}
+
+#img-div p {
+	font-size: 1.2rem;
+	color: #777;
+	font-style: italic;
+	margin-top: 1rem;
+	text-align: center;
+}
+
+#tribute-info > ul {
+	width: 720px;
+	margin: 0 auto;
+	text-align: justify;
+	list-style: disc;
+}
+
+#tribute-info ul li {
+	font-size: 1.6rem;
+	line-height: 1.4em;
+	margin: 1em 0;
+}
+
+#tribute-info .cast li {
+	line-height: 1.4em;
+	list-style: circle;
+	margin: 0 0 0 5em;
+}
+
+.seasons #headline {
+	text-align: center;
+	font-size: 4rem;
+}
+
+.seasons section {
+	width: 720px;
+	margin: 0 auto;
+}
+
+.seasons section h3 {
+	margin-top: 5rem;
+	font-size: 2rem;
+	text-align: center;
+}
+
+.seasons section div {
+	width: 200px;
+	margin: 2rem auto;
+}
+
+.seasons section img {
+	width: 100%;
+	border: 7px solid #555;
+}
+
+.seasons section p {
+	font-size: 1.6rem;
+	text-align: justify;
+	line-height: 1.4;
+}
+
+footer {
+	margin: 2rem auto;
+	line-height: 2;
+}
+
+footer blockquote p {
+	font-size: 1.5rem;
+	margin: 0 auto;
+	font-style: italic;
+	text-align: center;
+	width: 900px;
+}
+
+footer blockquote cite {
+	display: block;
+	font-size: 1.4rem;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+
+.footer {
+	font-size: 1.6rem;
+	text-align: center;
+	margin: 2rem 0;
+}

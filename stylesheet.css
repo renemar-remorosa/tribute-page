@@ -1,105 +1,105 @@
 @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
 
 html {
-  font-size: 10px;
-  font-family: Yusei Magic, sans-serif;
-  background-color: #e6ffe9;
-  color: #2C2C2C;
+	font-size: 10px;
+	font-family: Yusei Magic, sans-serif;
+	background-color: #e6ffe9;
+	color: #2c2c2c;
 }
 
 header {
-  margin: 20px;
+	margin: 20px;
 }
 
 h1 {
-  font-size: 5rem;
-  text-align: center;
-  margin: 0;
-  letter-spacing: 7px;
+	font-size: 5rem;
+	text-align: center;
+	margin: 0;
+	letter-spacing: 7px;
 }
 
 .tagline {
-  font-size: 2rem;
-  text-align: center;
-  margin: 0;
+	font-size: 2rem;
+	text-align: center;
+	margin: 0;
 }
 
 #img-div {
-  width: 720px;
-  margin: auto;
-  padding: 20px;
-  border: 2px dashed black;
+	width: 720px;
+	margin: auto;
+	padding: 20px;
+	border: 2px dashed black;
 }
 
 #image {
-  display: block;
-  max-width: 100%;
-  margin: auto;
+	display: block;
+	max-width: 100%;
+	margin: auto;
 }
 
 #img-caption {
-  text-align: center;
-  font-size: 1.2rem;
-  padding: 0;
-  margin: 0;
-  font-style: italic;
-  background-color: white;
+	text-align: center;
+	font-size: 1.2rem;
+	padding: 0;
+	margin: 0;
+	font-style: italic;
+	background-color: white;
 }
 
 #tribute-info {
-  font-size: 1.7rem;
+	font-size: 1.7rem;
 }
 
 ul {
-  display: block;
-  max-width: 720px;
-  margin: auto;
+	display: block;
+	max-width: 720px;
+	margin: auto;
 }
 
 li {
-  margin: 10px;
+	margin: 10px;
 }
 
 .seasons {
-  max-width: 1080px;
-  margin: auto;
+	max-width: 1080px;
+	margin: auto;
 }
 
 #headline {
-  font-size: 4rem;
-  text-align: center;
-  text-decoration: underline;
-  letter-spacing: 7px;
+	font-size: 4rem;
+	text-align: center;
+	text-decoration: underline;
+	letter-spacing: 7px;
 }
 
 section {
-  text-align: center;
-  margin: 50px 0;
+	text-align: center;
+	margin: 50px 0;
 }
 
 h3 {
-  font-size: 2rem;
-  margin: 10px;
+	font-size: 2rem;
+	margin: 10px;
 }
 
 .season-cover {
-  border: 5px solid rgb(68, 68, 68);
+	border: 5px solid rgb(68, 68, 68);
 }
 
 .season-info {
-  font-size: 1.7rem;
-  margin: 10px;
+	font-size: 1.7rem;
+	margin: 10px;
 }
 
 blockquote {
-  max-width: 720px;
-  margin: auto;
-  font-size: 1.5rem;
-  font-style: italic;
-  color: #707070;
+	max-width: 720px;
+	margin: auto;
+	font-size: 1.5rem;
+	font-style: italic;
+	color: #707070;
 }
 
 .footer {
-  font-size: 1.7rem;
-  text-align: center;
+	font-size: 1.7rem;
+	text-align: center;
 }
