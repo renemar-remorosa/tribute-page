@@ -1,1 +1,41 @@
-@media;
+/* 480px width devices */
+
+@media screen and (max-width: 480px) {
+	body {
+		background-color: #fee;
+	}
+
+	header {
+		margin-top: 3rem;
+	}
+
+	header h1 {
+		font-size: 5rem;
+	}
+
+	header p {
+		font-size: 2rem;
+	}
+
+	#img-div {
+		width: 100%;
+	}
+
+	#tribute-info > ul {
+		width: 85%;
+	}
+
+	#tribute-info .cast li {
+		margin: 0 0 0 2em;
+	}
+
+	.seasons section {
+		width: 90%;
+	}
+
+	footer blockquote p {
+		width: 100%;
+	}
+}
+
+/* Moto G4-like devices */
