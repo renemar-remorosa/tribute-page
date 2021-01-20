@@ -35,6 +35,9 @@ header p {
 
 #img-div #image {
 	width: 100%;
+	max-width: 720px;
+	display: block;
+	margin: 0 auto;
 }
 
 #img-div p {

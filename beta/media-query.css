@@ -1,10 +1,6 @@
-/* 480px width devices */
+/* 320px — 480px */
 
-@media screen and (max-width: 480px) {
-	body {
-		background-color: #fee;
-	}
-
+@media screen and (min-width: 320px) and (max-width: 480px) {
 	header {
 		margin-top: 3rem;
 	}
@@ -38,4 +34,74 @@
 	}
 }
 
-/* Moto G4-like devices */
+/* 481px — 768px */
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+	header {
+		margin-top: 3rem;
+	}
+
+	header h1 {
+		font-size: 5rem;
+	}
+
+	header p {
+		font-size: 2rem;
+	}
+
+	#img-div {
+		width: 100%;
+	}
+
+	#tribute-info > ul {
+		width: 85%;
+	}
+
+	#tribute-info .cast li {
+		margin: 0 0 0 2em;
+	}
+
+	.seasons section {
+		width: 90%;
+	}
+
+	footer blockquote p {
+		width: 100%;
+	}
+}
+
+/* 769px — 1024px */
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+	header {
+		margin-top: 3rem;
+	}
+
+	header h1 {
+		font-size: 5rem;
+	}
+
+	header p {
+		font-size: 2rem;
+	}
+
+	#img-div {
+		width: 100%;
+	}
+
+	#tribute-info > ul {
+		width: 85%;
+	}
+
+	#tribute-info .cast li {
+		margin: 0 0 0 2em;
+	}
+
+	.seasons section {
+		width: 90%;
+	}
+
+	footer blockquote p {
+		width: 100%;
+	}
+}
